@@ -1,0 +1,204 @@
+# 自動把text的斷行做一致化
+* text=auto
+
+# 文件類型
+*.markdown text
+*.md text
+*.mdwn text
+*.mdown text
+*.mkd text
+*.mkdn text
+*.mdtxt text
+*.mdtext text
+*.txt text
+AUTHORS text
+CHANGELOG text
+CHANGES text
+CONTRIBUTING text
+COPYING text
+copyright text
+*COPYRIGHT* text
+INSTALL text
+license text
+LICENSE text
+NEWS text
+readme text
+*README* text
+TODO text
+
+# word 類型
+*.doc diff=astextplain
+*.DOC diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot diff=astextplain
+*.DOT diff=astextplain
+*.pdf diff=astextplain
+*.PDF diff=astextplain
+*.rtf diff=astextplain
+*.RTF diff=astextplain
+
+# 原始碼類型
+*.bat text eol=crlf
+*.coffee text
+*.css text
+*.htm text
+*.html text
+*.inc text
+*.ini text
+*.js text
+*.json text
+*.jsx text
+*.less text
+*.od text
+*.onlydata text
+*.php text
+*.pl text
+*.py text
+*.rb text
+*.sass text
+*.scm text
+*.scss text
+*.sh text eol=lf
+*.sql text
+*.styl text
+*.tag text
+*.ts text
+*.tsx text
+*.xml text
+*.xhtml text
+*.cs text diff=csharp
+*.dockerignore text
+Dockerfile text
+
+
+# 範本類型
+*.dot text
+*.ejs text
+*.haml text
+*.handlebars text
+*.hbs text
+*.hbt text
+*.jade text
+*.latte text
+*.mustache text
+*.njk text
+*.phtml text
+*.tmpl text
+*.tpl text
+*.twig text
+
+# visual studio 專案檔案設定
+*.sln text eol=crlf 
+*.csproj text eol=crlf 
+*.vbproj text eol=crlf 
+*.vcxproj text eol=crlf 
+*.vcproj text eol=crlf 
+*.dbproj text eol=crlf 
+*.fsproj text eol=crlf 
+*.lsproj text eol=crlf 
+*.wixproj text eol=crlf 
+*.modelproj text eol=crlf 
+*.sqlproj text eol=crlf 
+*.wmaproj text eol=crlf 
+*.xproj text eol=crlf 
+*.props text eol=crlf 
+*.filters text eol=crlf 
+*.vcxitems text eol=crlf 
+
+# linter
+.csslintrc text
+.eslintrc text
+.jscsrc text
+.jshintrc text
+.jshintignore text
+.stylelintrc text
+.stylecop text
+
+# 設定類型
+*.bowerrc text
+*.cnf text
+*.conf text
+*.config text
+.browserslistrc text
+.editorconfig text
+.gitattributes text
+.gitconfig text
+.gitignore text
+.htaccess text
+*.npmignore text
+*.yaml text
+*.yml text
+browserslist text
+Makefile text
+makefile text
+*.ps1 text
+
+## binary 類型
+
+# 圖像
+*.ai binary
+*.bmp binary
+*.eps binary
+*.gif binary
+*.ico binary
+*.jng binary
+*.jp2 binary
+*.jpg binary
+*.jpeg binary
+*.jpx binary
+*.jxr binary
+*.pdf binary
+*.png binary
+*.psb binary
+*.psd binary
+*.svg text
+*.svgz binary
+*.tif binary
+*.tiff binary
+*.wbmp binary
+*.webp binary
+
+## 影音
+*.kar binary
+*.m4a binary
+*.mid binary
+*.midi binary
+*.mp3 binary
+*.ogg binary
+*.ra binary
+
+## 影片
+*.3gpp binary
+*.3gp binary
+*.as binary
+*.asf binary
+*.asx binary
+*.fla binary
+*.flv binary
+*.m4v binary
+*.mng binary
+*.mov binary
+*.mp4 binary
+*.mpeg binary
+*.mpg binary
+*.swc binary
+*.swf binary
+*.webm binary
+
+## 壓縮
+*.7z binary
+*.gz binary
+*.rar binary
+*.tar binary
+*.zip binary
+
+## FONTS
+*.ttf binary
+*.eot binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+
+## 可執行
+*.exe binary
