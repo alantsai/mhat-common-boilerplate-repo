@@ -1,5 +1,7 @@
 ﻿# mhat-common-boilerplate-repo
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/alantsai/mhat-common-boilerplate-repo?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 這個專案的目的是提供一個template，方便建立新專案的時候，包含需要的最基本資訊。
 
 在使用的時候，quote (>作為開頭的文字)都可以刪掉，那些是說明用途。
