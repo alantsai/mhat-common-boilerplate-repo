@@ -80,3 +80,7 @@ git remote add origin {new repo url}
 ## 感謝 (Acknowledgements)
 
 > 如果專案有使用到一些第三方的library或者一些資源想要感謝可以卸載這裡，或者如果內容比較多可以列在 `ACKNOWLEDGMENTS.md` 裡面。
+
+## 授權 (License)
+
+本專案屬於 MIT License，更多資訊請看 [LICENSE.md](LICENSE.md)
