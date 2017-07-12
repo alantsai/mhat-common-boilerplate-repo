@@ -6,7 +6,7 @@
 
 ## [Unreleased]
 ### Added
-- 專案結構資料夾（build、doc、src）
+- 專案結構資料夾（build、doc、src、tools）
 - `README.md`
 - `LICENSE.md`
 - `CONTRIBUTING.md`
