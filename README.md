@@ -72,3 +72,7 @@ git remote add origin {new repo url}
 ## 貢獻者 (Contributors)
 
 > 如果有任何要感謝的貢獻者，可以專門寫到 `CONTRIBUTORS.md` 檔案，或者直接在這個檔案裡面列出來。
+
+## 作者 (Authors)
+
+> 假設需要列出專案的作者（和版權有關），那麼可以列在 `AUTHORS.md` 裡面。
