@@ -64,3 +64,7 @@ git remote add origin {new repo url}
 
 如果有任何問題，可以透過[開issue](https://github.com/alantsai/mhat-common-boilerplate-repo/issues/new) 或者 可以在 [gitter](https://gitter.im/alantsai/mhat-common-boilerplate-repo?utm_source=share-link&utm_medium=link&utm_campaign=share-link)上面發問。
 
+## 參與修改 (Contributing)
+
+歡迎任何形式的參與，更多資訊請參考  
+[CONTRIBUTING.md](CONTRIBUTING.md)
