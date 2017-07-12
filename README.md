@@ -32,7 +32,7 @@
 2. 刪除.git資料夾
 3. 重新git init（新的版控記錄）
 
-指令來說就是：
+Powershell指令來說就是：
 
 ```powershell
 git clone https://github.com/alantsai/mhat-common-boilerplate-repo.git
