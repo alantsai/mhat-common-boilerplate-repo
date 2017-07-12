@@ -68,3 +68,7 @@ git remote add origin {new repo url}
 
 歡迎任何形式的參與，更多資訊請參考  
 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## 貢獻者 (Contributors)
+
+> 如果有任何要感謝的貢獻者，可以專門寫到 `CONTRIBUTORS.md` 檔案，或者直接在這個檔案裡面列出來。
