@@ -34,3 +34,10 @@
 如果您對pull request不熟悉，可以參考以下資訊（英文）
 
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+
+### Roadmap
+
+對於這個專案目前構想大約有2個階段
+
+1. 把需要的檔案和內容列出來，並且提供以這個專案為例子作為一個範例
+2. 用建立template的方式讓產生這個結果變得簡單，目前想法是透過 `yeoman` 和 `dotnet new` 的兩個templateengine來做
