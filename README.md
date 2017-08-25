@@ -47,7 +47,7 @@ git commit -m "init project"
 
 ### 包含這個專案的歷史記錄
 
-操作步奏
+操作步驟
 
 1. clone專案
 2. 刪掉origin的位置
